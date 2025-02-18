@@ -1,0 +1,19 @@
+[
+    {
+        "PN": "LCD-24W-AUO-LED-01",
+        "pinFamily": "AUO15.6-27",
+        "connector": [ "JAE FI-X30HL", "JAE FI-X30H" ]
+
+    },
+    {
+        "PN": "LCD-270-AUO-LED-01",
+        "pinFamily": "AUO15.6-27",
+        "connector": [ "JAE FI-X30HL", "JAE FI-X30H" ]
+    },
+    {
+        "PN": "LCD-121W-AUO-LED-01",
+        "pinFamily": "AUO12",
+        "connector": [ "Hirose DF14-20S-1.25C" ]
+
+    }
+]

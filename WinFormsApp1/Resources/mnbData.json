@@ -1,0 +1,14 @@
+[
+    {
+        "PN": "MNB-ADLN-MSI-CFO3",
+        "pinFamily": "MSI1"
+    },
+    {
+        "PN": "MNB-ALDU-ASROCK-SBC-370M",
+        "pinFamily": "ASR1"
+    },
+    {
+        "PN": "MNB-KIT-GIGAIPC-QBIP-4200C",
+        "pinFamily": "GIG1"
+    }
+]

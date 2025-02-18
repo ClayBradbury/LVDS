@@ -1,0 +1,22 @@
+[
+    {
+        "pinFamily": "MSI1",
+        "pinout": [""]
+    },
+    {
+        "pinFamily": "ASR1",
+        "pinout": [""]
+    },
+    {
+        "pinFamily": "GIG1",
+        "pinout": [ "3", "5", "3", "5", "DCLK", "DDAT", "GND", "GND", "A1+", "A0+", "A1-", "A0-", "GND", "GND", "A3+", "A2+", "A3-", "A2-", "GND", "GND", "B1+", "B0+", "B1-", "B0-", "GND", "GND", "B3+", "B2+", "B3-", "B2-", "GND", "GND", "BC+", "AC+", "BC-", "BC+", "GND", "GND", "12V", "12V"]
+    },
+    {
+        "pinFamily": "AUO12",
+        "pinout": [""]
+    },
+    {
+        "pinFamily": "AUO15.6-27",
+        "pinout": [""]
+    }
+]
